@@ -1,0 +1,31 @@
+body {
+  font-family: "Balsamiq Sans", cursive;
+}
+.bg-1 {
+  background-image: url(../img/x.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.flag {
+  width: 100px;
+  height: auto;
+}
+.bg-2 {
+  background-image: url(../img/o.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bg-3 {
+  background-image: url(../img/q.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.text-gray {
+  color: rgb(177, 171, 171);
+}
+.bg-footer {
+  background: rgb(58, 57, 57);
+}
